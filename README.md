@@ -8,7 +8,6 @@
 
 
 ![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcoa5432&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoa5432&layout=compact)
 
  
