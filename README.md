@@ -8,7 +8,7 @@
 
 
 ![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcoa5432&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoa5432&layout=compact=style="max-whidt:100px").
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoa5432&layout=compact).
 
  
 ## Tecnologias que uso no meu dia
