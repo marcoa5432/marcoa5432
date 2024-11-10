@@ -1,6 +1,6 @@
   ### Olá eu sou o Marco Aurélio Barreto 👋
 
-  ### Transição para Tecnologia aos 40 Anos
+  #### Transição para Tecnologia aos 40 Anos
 
 Minha jornada na tecnologia começou aos 40 anos, impulsionada por uma grande vontade de inovar e enfrentar desafios. Após anos em outra área, decidi embarcar em um campo em constante mudança e de forte impacto no futuro. Esse percurso é repleto de aprendizado contínuo e superação, onde cada nova habilidade adquirida representa uma conquista.
 
