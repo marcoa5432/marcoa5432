@@ -1,6 +1,11 @@
   ### Olá eu sou o Marco Aurélio Barreto 👋
 
- Mudando de área aos 40 anos de idade para tecnologia 
+  ### Transição para Tecnologia aos 40 Anos
+
+Minha jornada na tecnologia começou aos 40 anos, impulsionada por uma grande vontade de inovar e enfrentar desafios. Após anos em outra área, decidi embarcar em um campo em constante mudança e de forte impacto no futuro. Esse percurso é repleto de aprendizado contínuo e superação, onde cada nova habilidade adquirida representa uma conquista.
+
+Com uma base crescente em desenvolvimento web, estou determinado a expandir meu conhecimento, contribuir para projetos  construir soluções úteis e acessíveis. A cada passo, aprendo mais sobre as possibilidades da tecnologia e sobre como posso contribuir para um mundo digital melhor.
+
 
  ## Conecte-se comigo
 
